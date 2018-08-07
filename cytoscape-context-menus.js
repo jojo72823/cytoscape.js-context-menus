@@ -115,7 +115,7 @@
       }
 
       function displayComponent($component) {
-        $component.css('display', 'block');
+        $component.css('display', 'flex');
       }
 
       function hideComponent($component) {
